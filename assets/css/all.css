@@ -11535,10 +11535,13 @@ textarea {
 
 .section {
   padding: 100px 0;
+  background-color: black;
+  color: white;
 }
 
 .section:nth-child(odd) {
   background-color: #eaf0fc;
+  color: black;
 }
 
 /*Tabs nav section*/
